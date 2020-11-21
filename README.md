@@ -6,5 +6,10 @@ Y algún día trabajar para una empresa exitosa. Ademas de estudiar programacion
 
 Puedes encontrarme en estas redes sociales 😀
 
+
 - 🤩 [Instagram](https://www.instagram.com/juan_perdomopy/ "Juan Perdomo")
 - 📧 *nanezomg@gmail.com*
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=kiolo45&show_icons=true&count_private=true&title_color=00FFFF&icon_color=00FFFF" />
+<img src="https://komarev.com/ghpvc/?username=es3n1n&style=flat&color=00FFFF" />
